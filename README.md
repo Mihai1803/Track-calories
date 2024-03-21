@@ -15,6 +15,6 @@ This is a simple web application built with vanilla JavaScript, HTML, and CSS fo
 The project consists of the following files:
 
 - `index.html`: Contains the HTML structure of the web application, including input fields for adding food items and a display section for the total calorie intake.
-- `styles.css`: Contains the CSS styles for styling the HTML elements and layout.
+- `styles.css`: Contains the CSS styles(using bootstrap) for styling the HTML elements and layout.
 - `app.js`: Contains the JavaScript code for adding functionality to the calorie tracker, including handling form submissions and updating the total calorie count.
 
